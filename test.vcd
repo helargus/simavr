@@ -1,0 +1,25 @@
+$date 2018-02-08 21:00:08 $end
+$comment
+  Test file to test controller inputs
+$end
+$timescale 1 us $end
+$scope module logic $end
+$var wire 1 c iogC_1 $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+x c
+$end
+#0
+1c
+#10
+0c
+#20
+1c
+#30
+0c
+#100
+1c
+#150
+0c
+#200
